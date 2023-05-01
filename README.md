@@ -1,21 +1,21 @@
-# 📦 Streamlit App Starter Kit 
+# Protein Visualization
 ```
-⬆️ (Replace above with your app's name)
+This app allows you to input an amino acid sequence to determine the protein structure.
 ```
-
-Description of the app ...
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://starter-kit.streamlitapp.com/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://lrmcdonnell-final-project-streamlit-app-tqrlmf.streamlit.app/)
 
-## Section Heading
+## CIS 1051 Final Project
 
-This is filler text, please replace this with text for this section.
+Hi, this is my final project. I hope you enjoy! 
 
-## Further Reading
+## Resources Used
 
-This is filler text, please replace this with a explanatory text about further relevant resources for this repo
-- Resource 1
-- Resource 2
-- Resource 3
+These are various sources I used for my project:
+- Protein Data Bank (PDB): https://www.rcsb.org/
+- ESMFold: https://esmatlas.com/about
+- Project Idea and Guide: ChatGPT https://openai.com/blog/chatgpt
+- App idea: https://huggingface.co/spaces/osanseviero/esmfold
+- Github starter kit: https://github.com/dataprofessor (Also linked to this repository)
