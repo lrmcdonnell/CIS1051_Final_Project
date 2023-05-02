@@ -12,7 +12,7 @@ This app allows you to input an amino acid sequence to determine the protein str
 Hi, this is my final project. I hope you enjoy! 
 Youtube Link: https://youtu.be/74Wt0D0U3hU
 
-##Notes
+## Notes
 - This project was challenging, but I am proud of how it came out. It was different than my original vision, but I like it.
 - Streamlit was a very nice interface to create the web app, and I will probably use it again.
 - I couldn't figure out certain features that I wanted to include. Such as: toggle bar for changing the spin speed of the structure, a button to stop the spinning entirely, changing the colors, and selecting different sections of the protein. I think with more time I could have eventually figured it out, but maybe not honestly. I was getting so frustrated with some of these.
