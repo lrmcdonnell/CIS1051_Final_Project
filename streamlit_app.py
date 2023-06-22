@@ -31,11 +31,7 @@ def visualize(sequence = text):
     structure.addModel(pdb_str,'pdb') 
     structure.setStyle({'cartoon':{'color':'spectrum'}})  #appearance of protein
     structure.zoomTo()     #zoom feature
-    stop_spin = st.button('Stop Spin')
-    if stop_spin:
-        structure.spin(False) #This was a fail
-    else:
-         structure.spin(True)    #spin structure
+    structure.spin(True)    #spin structure
     showmol(structure, height = 550, width = 900)  #show protein structure
 
 predict = st.sidebar.button('Predict')     # Make button 
